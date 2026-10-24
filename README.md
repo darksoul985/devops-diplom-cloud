@@ -1,2 +1,2 @@
-# devops-diplom-cloud
-netology
+Author: S. Shitobokov
+DevOps FSHDEVOPS-29
